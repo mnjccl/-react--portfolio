@@ -1,6 +1,6 @@
 LIVE DEMO HERE: https://react-portfolio-mu-flax.vercel.app/
 
-This project is my interactive portfolio, showcasing my expertise in frontend development with a focus on 3D visuals and animations. I used Three.js, GSAP and React Globe for working with 3d models. EmailJS is integrated for easy contact.
+This project is my interactive portfolio, showcasing my expertise in frontend development with a focus on 3D visuals and animations. I used Three.js, GSAP, React Globe, and React Fiber Drei for working with 3D models, while EmailJS is integrated for easy contact. Entire website, including 3D models, is built using TypeScript.
 
 # React + TypeScript + Vite
 
