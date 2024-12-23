@@ -101,7 +101,7 @@ export const myProjects = [
       },
       {
         id: 5,
-        name: "TailwindCSS",
+        name: "styled-components",
         path: "assets/styled-components.png",
       },
       {
@@ -149,6 +149,44 @@ export const myProjects = [
       },
       {
         id: 5,
+        name: "TailwindCSS",
+        path: "assets/tailwindcss.png",
+      },
+    ],
+  },
+
+  {
+    title: "Kanban - Task Menagement App",
+    desc: "Kanban is a task management application designed to organize tasks visually. Users can create, edit, and move tasks across columns, track subtasks, and manage statuses efficiently. The app also supports multiple boards for enhanced project organization.",
+    subdesc:
+      "Built using Redux for state management, TypeScript for type safety, and Tailwind CSS for styling, with additional tools like Headless UI, Lodash, and UUID for enhanced functionality and usability.",
+    href: "https://kanban-navy-sigma.vercel.app/",
+    texture: "/textures/project/kanban.png",
+    logo: "/assets/kanban.png",
+    logoStyle: {
+      backgroundColor: "#13202F",
+      border: "0.2px solid #17293E",
+      boxShadow: "0px 0px 60px 0px #2F6DB54D",
+    },
+    spotlight: "/assets/spotlight2.png",
+    tags: [
+      {
+        id: 1,
+        name: "React.js",
+        path: "/assets/react.svg",
+      },
+      {
+        id: 2,
+        name: "TypeScript",
+        path: "/assets/typescript.png",
+      },
+      {
+        id: 3,
+        name: "Redux",
+        path: "/assets/redux.png",
+      },
+      {
+        id: 4,
         name: "TailwindCSS",
         path: "assets/tailwindcss.png",
       },
